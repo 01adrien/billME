@@ -1,0 +1,14 @@
+{
+  "entrypoints": {
+    "index": {
+      "js": [
+        "/build/runtime.js",
+        "/build/vendors-node_modules_core-js_modules_es_array_map_js-node_modules_core-js_modules_es_function-b88a13.js",
+        "/build/index.js"
+      ],
+      "css": [
+        "/build/index.css"
+      ]
+    }
+  }
+}
